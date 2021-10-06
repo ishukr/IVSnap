@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IVsnap</string>
+    <string name="image_chooser" />
+    <string name="todo" />
+</resources>
