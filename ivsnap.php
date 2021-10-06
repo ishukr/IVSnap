@@ -186,7 +186,7 @@ input[type=password]:focus {
    Notice
   </a>
   <div class="collapse" id="collapseExample">
-  <div class="card card-body">
+  <!-- <div class="card card-body">
   <p style="text-align: left;"><span style="font-family: Impact, Charcoal, sans-serif;"><strong>Dear IVsnap Users,</strong></span></p>
 <p style="text-align: left;"><span style="font-family: Impact, Charcoal, sans-serif;"><br>We regret to inform you that we have decided to close down our IVsnap. Our last day of Working will be on 20th-June 2021. After that date, IVsnap will no longer be offering services to you. The decision to close down this App was not an easy one ☹️☹️ and we enjoyed the service delivering them to you.</span></p>
 <p style="text-align: left;"><span style="font-family: Impact, Charcoal, sans-serif;"><br>We would like to thank all of our Users for using our app and this could not have been as successful as it was without your loyalty. <strong>If you&rsquo;re brave enough to say goodbye, life will reward you with a new hello.</strong></span></p>
@@ -195,7 +195,7 @@ input[type=password]:focus {
 <a href="deletemyaccount" class="badge badge-primary">Click me to delete your account</a></p>
 <p style="text-align: left;"><span style="font-family: Impact, Charcoal, sans-serif;"><br></span></p>
 <p style="text-align: left;"><span style="font-family: Impact, Charcoal, sans-serif;"><br><strong>Sincerely,<br>Founder Nandan Mishra<br>Co-Founder &amp; CEO: Ishu Kumar</strong><br><br><br><br></span></p>
-  </div>
+  </div> -->
 </div>
       </div>
    
